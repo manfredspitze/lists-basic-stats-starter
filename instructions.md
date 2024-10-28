@@ -24,7 +24,7 @@
 
 ### Related Resources
 
-- See p. 59, PCC (Simple Statistics with a List of Numbers)
+- Video: The [min( ), max( ) and sum( ) functions](https://www.eduvision.tv/l?RymygLy&authuser=0) with Python lists
 
 
 ### Quiz Scores
